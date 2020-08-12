@@ -1,2 +1,2 @@
 # sistema
-Ing. Cesar Hernandez Gonzalez
+Sistema de control de alumnos
