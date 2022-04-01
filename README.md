@@ -1,2 +1,2 @@
-# sistema
-Sistema de control de alumnos
+# Sistema Horarios
+Sistema de control de horarios escolares
